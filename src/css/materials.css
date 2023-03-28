@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.webgl{
+    position: fixed;
+}
+
+.covers div{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.covers > img{
+    height: 120px;
+    width: 120px;
+    border-radius: 150px;
+    margin-right: 10px;
+}
+
+.choose_cover_popular_h2{
+    display: inline-block;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,12 @@
+.screen{
+    display: inline-block;
+    width: 55vw;
+}
+
+.webgl{
+    display: inline-block;
+}
+
+.canvas_buttons{
+    display: inline-block;
+}

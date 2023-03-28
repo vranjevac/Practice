@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.webgl{
+    position: fixed;
+}
+
+.materialsButton{
+    display: flex;
+    flex-direction: row;
+}
+
+.materialsButton > img{
+    height: 150px;
+    width: 150px;
+    border-radius: 150px;
+    margin-right: 10px;
+}

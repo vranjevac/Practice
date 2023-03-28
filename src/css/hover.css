@@ -1,0 +1,3 @@
+.model_popular:hover, .model_design:hover{
+    border: 2px solid var(--lt-color-gray-700);
+}
